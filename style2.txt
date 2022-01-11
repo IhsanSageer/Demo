@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Meow</title>
+</head>
+<img src="food.jpg" alt="Food" width="123" height="123">
+<body style="background-color:powderblue;">
+<h1 style="color:blue;">Hello there!</h1>
+<p style="font-family:courier;">I am Ihsan</p>
+<h2 style="font-size:160%;">I am Fat</h2>
+<p style="text-align:center;">Because I like food</p>
+<img src="food.jpg" alt="Food" width="123" height="123">
+</body>
+</html>

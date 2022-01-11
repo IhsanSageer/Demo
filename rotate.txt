@@ -1,0 +1,14 @@
+<html>
+<head>
+<style>
+div {width: 300px;height: 100px;background-color: yellow;border: 1px solid black;transform: rotate(2deg); transform: rotate(2deg);}
+</style>
+</head>
+<body>
+<h1>The rotate Method</h1>
+<p>Where do you study?</p>
+<div>
+I study in the Indian School
+</div>
+</body>
+</html>

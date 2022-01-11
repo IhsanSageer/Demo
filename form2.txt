@@ -1,0 +1,13 @@
+<html>
+<body>
+<h2>Checkboxes</h2>
+<form>
+<input type="radio"><br>
+<label>Male</label><br>
+<input type="radio"><br>
+<label>Female</label><br>
+<input type="radio"><br>
+<label>Both</label><br>
+</form>
+</body>
+</html>

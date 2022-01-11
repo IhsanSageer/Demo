@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Image Maps</title>
+</head>
+<body>
+<h2>Image Maps</h2>
+<p>Click on the computer or phone to go to another page and get a detailed info about it :)</p>
+<img src="workplace.jpg" alt="Workplace" usemap="

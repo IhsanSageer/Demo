@@ -1,0 +1,14 @@
+<html>                    
+<head>
+<style> 
+div {width: 300px;height: 100px;background-color: yellow;border: 1px solid black;}
+</style>
+</head>
+<body>
+<h1>The translate Method</h1>
+<p>The translate method moves an element from its current position:</p>
+<div>
+I am studying in the 8th Grade
+</div>
+</body>
+</html>
